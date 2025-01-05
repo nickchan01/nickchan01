@@ -1,4 +1,4 @@
-# Hi there, I'm Nicholas Chan! 👋
+# Hi there, I'm Nicholas! 👋
 
 Welcome to my GitHub profile! I’m a **Computer Science (Honours)** student at Taylor’s University, passionate about **AI, machine learning, cybersecurity, and front-end development**. As the Co-Founder of **TalentSprout**, I’m dedicated to building innovative solutions that leverage technology to solve real-world problems.
 
